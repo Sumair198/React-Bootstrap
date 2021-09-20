@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Bootstrap/static/css/main.03e25b6f.chunk.css",
+    "main.js": "/React-Bootstrap/static/js/main.1a0eabb1.chunk.js",
+    "main.js.map": "/React-Bootstrap/static/js/main.1a0eabb1.chunk.js.map",
+    "runtime-main.js": "/React-Bootstrap/static/js/runtime-main.bb353457.js",
+    "runtime-main.js.map": "/React-Bootstrap/static/js/runtime-main.bb353457.js.map",
+    "static/css/2.818011ed.chunk.css": "/React-Bootstrap/static/css/2.818011ed.chunk.css",
+    "static/js/2.66325fad.chunk.js": "/React-Bootstrap/static/js/2.66325fad.chunk.js",
+    "static/js/2.66325fad.chunk.js.map": "/React-Bootstrap/static/js/2.66325fad.chunk.js.map",
+    "static/js/3.c55079e4.chunk.js": "/React-Bootstrap/static/js/3.c55079e4.chunk.js",
+    "static/js/3.c55079e4.chunk.js.map": "/React-Bootstrap/static/js/3.c55079e4.chunk.js.map",
+    "index.html": "/React-Bootstrap/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/React-Bootstrap/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.03e25b6f.chunk.css.map": "/React-Bootstrap/static/css/main.03e25b6f.chunk.css.map",
+    "static/js/2.66325fad.chunk.js.LICENSE.txt": "/React-Bootstrap/static/js/2.66325fad.chunk.js.LICENSE.txt",
+    "static/media/one.c78b27a1.png": "/React-Bootstrap/static/media/one.c78b27a1.png",
+    "static/media/three.b5810a72.jpg": "/React-Bootstrap/static/media/three.b5810a72.jpg",
+    "static/media/two.670a4d62.png": "/React-Bootstrap/static/media/two.670a4d62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb353457.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.66325fad.chunk.js",
+    "static/css/main.03e25b6f.chunk.css",
+    "static/js/main.1a0eabb1.chunk.js"
+  ]
+}
